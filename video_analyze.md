@@ -1,5 +1,5 @@
 ## 测试流程图 ## 
-```sequence
+```sequenceDiagram
 title:投屏卡顿检测流程
 测试电脑 -->> 手机: 控制投屏开始
 手机 -> 车机: 投屏
